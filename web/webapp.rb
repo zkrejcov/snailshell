@@ -5,8 +5,13 @@ require 'sinatra/flash'
 require 'sinatra/redirect_with_flash'
 require_relative '../client/message'
 
-set :bind => '147.251.51.242', :port => 8080
+# these are the default settings for Sinatra
+# change for your own host and desired port, if you want to make it accessible
+set :bind => 'localhost', :port => 4567
 
+# by default, this uses the awsome lightweight sqlite3 database
+# again, change this to whatever suits your needs, beware the needed datamapper
+# libs if you do so
 DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/snailshell.db")
 
 class User
@@ -64,6 +69,8 @@ DataMapper.finalize.auto_upgrade!
 enable :sessions
 
 # GET
+
+# gotta love IE - or not
 get '/*', :agent => /MSIE/ do
   '<body style="background-color: black; color: red; font-size: 2em; text-align:
 center"><br /><br /><em style="font-size: 5em; font-weight: bold;">NO IE HERE!</em>
