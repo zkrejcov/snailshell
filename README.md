@@ -14,15 +14,12 @@ What you need to make it work
 -----------------------------
 - Ruby, obviously
 - the code, again, obviously
-- a few more libraries (gems or rpms - which worked better for me)
-  - for the web part:
-   - sinatra
-   - sinatra-redirect-with-flash
-   - sinatra-flash
-   - data\_mapper and its db mapper:
-   - dm-sqlite-adapter (or the one for the db of your choice)
-  - for the client part of the project:
-   - nothing I can think of now
+- a few more libraries (gems or rpms - which worked better for me) for the web part:
+  - sinatra
+  - sinatra-redirect-with-flash
+  - sinatra-flash
+  - data\_mapper and its db mapper:
+  - dm-sqlite-adapter (or the one for the db of your choice)
 - a database of your choice for the web part (which is just a Sinatra exercise
   and not needed), the code is set to use sqlite3
 
