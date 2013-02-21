@@ -1,5 +1,4 @@
-SnailShell
-==========
+# SnailShell #
 `<joke>`SuperNatural, Awsome, Incredible, Longdistance Shell (over
 mail)`</joke>`
 
@@ -10,8 +9,7 @@ It uses
 - openssl, openssl/digest for MAC
 - optparse for parsing the commandline options/arguments
 
-What you need to make it work
------------------------------
+## What you need to make it work ##
 - Ruby, obviously
 - the code, again, obviously
 - a few more libraries (gems or rpms - which worked better for me) for the web part:
@@ -23,14 +21,13 @@ What you need to make it work
 - a database of your choice for the web part (which is just a Sinatra exercise
   and not needed), the code is set to use sqlite3
 
-How to run it
--------------
-### Web
+## How to run it ##
+### Web ###
 The web part is simple - `ruby webapp.rb` will run the webapp with the default settings. 
 If you want to run in on a diferent host, port, db... well change that in the code - it's 
 the first few lines, nothing hard.
 
-### Client
+### Client ###
 The client part has a few more options. If you just do `ruby snailshell.rb`, it won't do 
 anything. You can get complete usage info with the `-h` switch. With `-d` switch, you will 
 tell it to start the daemon in the background. It will print out the pid and also save it 
@@ -55,3 +52,22 @@ All the important stuff is logged to `log/error.log`, `log/mail.log` and `log/da
 A lot of the settings can be found and changed in the utils.rb file - the log and 
 settings files location, daemon pid file and the default subject for the commands sent 
 out are there.
+
+## License ##
+Per request/advice, this work is licensed, see below.
+
+-----------------------------------------------------------------------------------------
+
+   Copyright 2013 Zuzana Krejčová
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
