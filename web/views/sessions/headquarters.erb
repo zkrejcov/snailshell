@@ -1,0 +1,103 @@
+<h4>Machines</h4>
+<table>
+  <tr>
+    <th>Label</th>
+    <th>Mailbox&nbsp;</th>
+    <th class="auto_width">Send command...</th>
+    <th class="auto_width" />
+  </tr>
+  <% if @machines.empty? %>
+</table>
+  <em>No machines.</em>
+  <br />
+  <% else %>
+    <% parity = "odd" %>
+    <% @machines.each do |machine| %>
+      <tr class="<%= parity %>">
+        <td><%= machine.label %></td>
+        <td><%= first_8_chars machine.mailbox %></td>
+        <td>
+          <form action="/headquarters" method="post">
+            <input type="hidden" name="machine_id" value="<%= machine.id %>"/>
+            <select name="command_id">
+              <% @commands.each do |command| %>
+                <option value="<%= command.id %>"><%= command.label %></option>
+              <% end %>
+            </select>
+            via profile
+            <select name="email_id">
+              <%  @emails.each do |email| %>
+                <option value="<%= email.id %>"><%= email.label %></option>
+              <% end %>
+            </select>
+            <input class="button" type="submit" value="Send"/>
+          </form>
+        </td>
+        <td>
+          <a href="/machine/<%= machine.id %>">Details/Edit</a>
+          <a href="/machine/<%= machine.id %>/delete">Delete</a>
+        </td>
+      </tr>
+      <% parity = parity=="odd"?"even":"odd" %>
+    <% end %>
+</table>
+  <% end %>
+<a href="/machine">Add&nbsp;</a>
+<br />
+
+<h4>Email profiles</h4>
+<table>
+  <tr>
+    <th>Label</th>
+    <th>Email&nbsp;</th>
+    <th class="auto_width" />
+  </tr>
+  <% if @emails.empty? %>
+</table>
+  <em>No email profiles.</em>
+  <br />
+  <% else %>
+    <% parity = "odd" %>
+    <%  @emails.each do |email| %>
+      <tr class="<%= parity %>">
+        <td><%= email.label %></td>
+        <td><%= first_8_chars email.mail %></td>
+        <td>
+          <a href="/email/<%= email.id %>">Details/Edit</a>
+          <a href="/email/<%= email.id %>/delete">Delete</a>
+        </td>
+      </tr>
+      <% parity = parity=="odd"?"even":"odd" %>
+    <% end %>
+</table>
+  <% end %>
+<a href="/email">Add&nbsp;</a>
+<br />
+
+<h4>Commands</h4>
+<table>
+  <tr>
+    <th>Label</th>
+    <th>Starts with&nbsp;</th>
+    <th class="auto_width" />
+  </tr>
+  <% if @commands.empty? %>
+</table>
+  <em>No commands.</em>
+  <br />
+  <% else %>
+    <% parity = "odd" %>
+    <%  @commands.each do |command| %>
+      <tr class="<%= parity %>">
+        <td><%= command.label %></td>
+        <td><%= first_8_chars command.command %></td>
+        <td>
+          <a href="/command/<%= command.id %>">Details/Edit</a>
+          <a href="/command/<%= command.id %>/delete">Delete</a>
+        </td>
+      </tr>
+      <% parity = parity=="odd"?"even":"odd" %>
+    <% end %>
+</table>
+  <% end %>
+<a href="/command">Add&nbsp;</a>

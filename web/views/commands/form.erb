@@ -1,0 +1,18 @@
+<h3><%= @title %></h3>
+<form action="/command<%= "/"+@command.id.to_s if @method == "put" %>" method="post">
+  <input type="hidden" name="_method" value="<%= @method %>"/>
+  <table>
+    <tr>
+      <td>Label:&nbsp;</td>
+      <td><input name="label" type="text" value="<%= @command.label if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Command:&nbsp;</td>
+      <td><textarea name="command"><%= @command.command if @method == "put" %></textarea></td>
+    </tr>
+    <tr>
+      <td />
+      <td><input class="button" type="submit" value="> Submit"/></td>
+    </tr>
+  </table>
+</form>

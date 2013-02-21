@@ -1,0 +1,174 @@
+body {
+    background-color: #2B2522;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 16px;
+}
+
+.logo {
+    position: relative;
+    left: 36%;
+    border-style: none;
+}
+
+.navigation {
+    background-color: #39312d;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+
+.navigation a {
+    display: block;
+    border-style: none;
+}
+
+.nav_login {
+    padding-left: 0.3em;
+}
+
+.flash {
+    background-color: #39312d;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+
+#left_panel {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 15%;
+    float: left;
+}
+
+#content_panel {
+    margin: 0.5em;
+    padding: 0.5em;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-style: solid;
+    border-right-width: thin;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 65%;
+    float: left;
+}
+
+#right_panel {
+    position: relative;
+    right: 0px;
+    top: 0px;
+    width: 15%;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+th, h4 {
+    text-align: left;
+    font-variant: small-caps
+}
+
+h4 {
+    margin-bottom: auto
+}
+
+th {
+    font-weight: normal;
+    background-color: darkgray;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    width: 8em;
+}
+
+th.auto_width {
+    width: auto;
+}
+
+.odd {
+    background-color: gray
+}
+
+.even {
+    background-color: darkgray
+}
+
+td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.1em;
+    padding-top: 0.1em;
+}
+
+select {
+    margin: 0em
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    display: inline;
+    border-radius: 3px;
+    padding-left: 0.3em;
+    padding-right: 0.4em;
+    margin: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #39312d;
+    border-style: groove;
+}
+
+a:hover {
+    background-color: #1d1917;
+    color: lightgray;
+}
+
+a.no_background {
+    background-color: inherit
+}
+
+.button, select {
+    border-radius: 3px;
+    display: inline;
+    margin: 0em;
+    background-color: inherit;
+    border-style: inherit;
+    cursor: pointer;
+}
+
+.button {
+    font: inherit;
+    padding-left: 0.3em;
+    padding-right: 0.4em;
+    padding-bottom: 0em;
+    padding-top: 0em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #39312d;
+    border-style: groove;
+}
+
+select {
+    background-color: lightgray
+}
+
+.button:hover {
+    background-color: #1d1917;
+    color: lightgray;
+}
+
+input {
+    background-color: lightgray;
+}

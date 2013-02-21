@@ -1,0 +1,7 @@
+label=testmail
+testmail.host=smtp.gmail.com
+testmail.port=465
+testmail.domain=gmail.com
+testmail.ssl=y
+testmail.account=some.mail@gmail.com
+testmail.password=some.password

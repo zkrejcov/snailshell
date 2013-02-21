@@ -1,0 +1,54 @@
+<h4>User details</h4>
+<% user = User.get(session[:user_id]) %>
+<table>
+  <tr>
+    <td>Username</td>
+    <td><%= user.username %></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><%= user.email %></td>
+  </tr>
+</table>
+<h4>Change your password</h4>
+<form action="/settings" method="post">
+  <input type="hidden" name="_method" value="put"/>
+  <input type="hidden" name="change" value="password"/>
+  <table>
+    <tr>
+      <td>Old Password:&nbsp;</td>
+      <td><input name="old_password" type="password"/></td>
+    </tr>
+    <tr>
+      <td>New Password:&nbsp;</td>
+      <td><input name="new_password" type="password"/></td>
+    </tr>
+    <tr>
+      <td>New Password Confirmation:&nbsp;</td>
+      <td><input name="new_password_confirmation" type="password"/></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><input class="button" type="submit" value="> Change Password"/></td>
+    </tr>
+  </table>
+</form>
+<h4>Change your email</h4>
+<form action="/settings" method="post">
+  <input type="hidden" name="_method" value="put"/>
+  <input type="hidden" name="change" value="email"/>
+  <table>
+    <tr>
+      <td>New Email:&nbsp;</td>
+      <td><input name="email" type="text"/></td>
+    </tr>
+    <tr>
+      <td>Password:&nbsp;</td>
+      <td><input name="password" type="password"/></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><input class="button" type="submit" value="> Change Email"/></td>
+    </tr>
+  </table>
+</form>

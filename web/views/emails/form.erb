@@ -1,0 +1,38 @@
+<h3><%= @title %></h3>
+<form action="/email<%= "/"+@email.id.to_s if @method == "put" %>" method="post">
+  <input type="hidden" name="_method" value="<%= @method %>"/>
+  <table>
+    <tr>
+      <td>Label:&nbsp;</td>
+      <td><input name="label" type="text" value="<%= @email.label if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Email:&nbsp;</td>
+      <td><input name="email" type="text" value="<%= @email.mail if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Host:&nbsp;</td>
+      <td><input name="host" type="text" value="<%= @email.host if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Port:&nbsp;</td>
+      <td><input name="port" type="text" value="<%= @email.port if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Domain:&nbsp;</td>
+      <td><input name="domain" type="text" value="<%= @email.domain if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>SSL:&nbsp;</td>
+      <td><input name="ssl" type="checkbox" <%= 'checked="checked"' if @method == "put" && @email.ssl %>/></td>
+    </tr>
+    <tr>
+      <td>Password:&nbsp;</td>
+      <td><input name="password" type="password" value="<%= @email.password if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td />
+      <td><input class="button" type="submit" value="> Submit"/></td>
+    </tr>
+  </table>
+</form>

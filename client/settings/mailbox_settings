@@ -1,0 +1,6 @@
+label=testmail
+testmail.host=pop.gmail.com
+testmail.port=995
+testmail.ssl=y
+testmail.account=some.other.mail@gmail.com
+testmail.password=some.password

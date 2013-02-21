@@ -1,0 +1,22 @@
+<h3><%= @title %></h3>
+<form action="/machine<%= "/"+@machine.id.to_s if @method == "put" %>" method="post">
+  <input type="hidden" name="_method" value="<%= @method %>"/>
+  <table>
+    <tr>
+      <td>Label:&nbsp;</td>
+      <td><input name="label" type="text" value="<%= @machine.label if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Mailbox:&nbsp;</td>
+      <td><input name="mailbox" type="text" value="<%= @machine.mailbox if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td>Hash key:&nbsp;</td>
+      <td><input name="hash_key" type="text" value="<%= @machine.hash_key if @method == "put" %>"/></td>
+    </tr>
+    <tr>
+      <td />
+      <td><input class="button" type="submit" value="> Submit"/></td>
+    </tr>
+  </table>
+</form>

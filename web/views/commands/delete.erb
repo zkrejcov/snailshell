@@ -1,0 +1,7 @@
+<h1></h1>Are you sure you want to delete this command?
+<br />
+<em><%= @command.label %></em>
+<form action="/command/<%= @command.id %>" method="post">
+  <input type="hidden" name="_method" value="delete"/>
+  <input class="button" type="submit" value="> Yes, delete it!"/>
+</form>

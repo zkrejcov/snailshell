@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="205.23715"
+   height="92.673813"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logoSmallDarkest.svg"
+   inkscape:export-filename="/home/zuzka/rails/webapp/public/images/logoBig.png"
+   inkscape:export-xdpi="89.39888"
+   inkscape:export-ydpi="89.39888">
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3930"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3863"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3859"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3851"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3847"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3036"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3030"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3014"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3014-4"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7729361"
+     inkscape:cx="102.61858"
+     inkscape:cy="46.336906"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-nodes="false"
+     inkscape:object-paths="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3026"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-14.060801px"
+       originy="-56.733784px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2989">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.060801,-27.757761)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.18962622000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-6-9"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(7.6191682,0,0,7.6191682,-887.83504,-474.0484)"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 56.019349,47.862182 c 1.49372,-1.257745 2.636776,-2.927665 3.268691,-4.775314 0.631915,-1.847649 0.750905,-3.86781 0.340263,-5.776866 -0.410642,-1.909057 -1.349754,-3.701618 -2.685494,-5.126021 -1.335739,-1.424403 -3.064333,-2.476625 -4.943099,-3.008943 -1.878766,-0.532317 -3.902399,-0.543226 -5.786795,-0.03119 -1.884396,0.512031 -3.624233,1.545556 -4.975251,2.955475 -1.351019,1.40992 -2.309403,3.192252 -2.740602,5.096771 -0.4312,1.904518 -0.333997,3.925844 0.277962,5.780199 0.708964,2.148301 2.088009,4.038647 3.770567,5.550873 1.682557,1.512225 3.662682,2.663411 5.721925,3.600078 4.118486,1.873334 8.584284,2.921719 12.637728,4.931917 8.053943,3.994138 14.056626,11.875372 15.807305,20.69321 1.298058,6.53807 0.310475,13.500741 -2.718516,19.438461 -3.028992,5.937722 -8.074141,10.816762 -14.092573,13.682032 -6.018431,2.86528 -12.972522,3.70652 -19.508678,2.39886 -6.536156,-1.30766 -12.620943,-4.75076 -17.137661,-9.65286 -6.890625,-7.478553 -9.898298,-18.355412 -7.828746,-28.311637 2.069552,-9.956226 9.162633,-18.733489 18.46275,-22.846552"
+       id="path3012"
+       inkscape:path-effect="#path-effect3014"
+       inkscape:original-d="M 56.019349,47.862182 C 55.930069,40.642852 42.5309,36.403501 38.775024,42.976289 c -10.324905,18.068576 22.13022,-3.106885 22.13022,14.082868 0,1.480943 17.087106,19.822916 15.807305,20.69321 C 64.672362,85.93991 119.34214,147.80006 23.255121,103.61886 7.8139352,96.518933 31.660813,56.174526 33.889125,52.460671"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 74.28275,90.815835 c 0.518919,-0.504955 1.594945,0.05403 3.592568,-2.299251 1.197102,-1.031357 2.43453,-4.999038 2.149157,-8.704228 l 0,-21.697526 8.679002,21.697526 0,-21.697526 c -0.199758,-4.215281 0.724176,-10.505633 1.386584,-13.283887 0.481563,-2.4934 1.356581,-4.865784 2.299237,-6.754029 1.76447,-2.841876 3.08788,-4.985156 4.885894,-6.466625"
+       id="path3016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 112.22028,96.851347 c -1.89079,-0.128598 -4.00064,-1.979308 -5.02959,-3.161472 -1.13518,-0.718508 -2.65084,-3.905201 -3.31315,-5.485915 l -6.495048,-30.08913 -4.339504,21.697526 8.679012,0"
+       id="path3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 106.0615,84.151853 0,-30.376527"
+       id="path3028"
+       inkscape:path-effect="#path-effect3030"
+       inkscape:original-d="m 106.0615,84.151853 c 0,-30.376527 0,-30.376527 0,-30.376527"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:1.66469943999999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.86790086,0,0,0.86790086,-8.9353673,-21.875565)"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 110.401,58.11483 0,21.697526 30.37654,0"
+       id="path3034"
+       inkscape:path-effect="#path-effect3036"
+       inkscape:original-d="m 110.401,58.11483 0,21.697526 30.37654,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 132.89084,68.309822 c 1.03203,-0.831525 1.82971,-1.95082 2.27888,-3.197724 0.44918,-1.246905 0.54853,-2.617756 0.28385,-3.916399 -0.26468,-1.298642 -0.89262,-2.521261 -1.79396,-3.492912 -0.90135,-0.971651 -2.07345,-1.689479 -3.3486,-2.05077 -1.27514,-0.361291 -2.64959,-0.364984 -3.92666,-0.01055 -1.27706,0.354434 -2.45301,1.065953 -3.35956,2.032747 -0.90656,0.966793 -1.54106,2.18602 -1.81271,3.483222 -0.27166,1.297202 -0.17967,2.668567 0.2628,3.917867 0.49863,1.407877 1.42796,2.63934 2.54948,3.625724 1.12152,0.986383 2.4319,1.738703 3.79153,2.356903 2.71925,1.2364 5.6608,1.959256 8.30947,3.340401 5.24632,2.735688 8.96933,7.974487 10.46463,13.699164 1.46019,5.590272 0.89471,11.682523 -1.54564,16.919695 -2.44035,5.23717 -6.73336,9.58347 -11.92856,12.11196 -5.1952,2.52848 -11.25491,3.22624 -16.89461,1.97044 -5.63971,-1.2558 -10.82402,-4.4524 -14.49918,-8.91071 -2.930766,-3.55529 -4.905181,-7.89151 -5.662657,-12.436362 -0.757476,-4.544852 -0.29613,-9.287037 1.323149,-13.600665"
+       id="path3012-2"
+       inkscape:path-effect="#path-effect3014-4"
+       inkscape:original-d="m 132.89084,68.309822 c -0.0591,-4.779282 -8.92954,-7.58579 -11.41596,-3.234519 -6.83522,11.961628 14.65048,-2.056795 14.65048,9.323028 0,0.980412 11.31188,13.123023 10.46463,13.699164 -7.97075,5.420261 18.74282,51.339905 -44.86799,22.091385 -10.222262,-4.70024 -5.814683,-23.578412 -4.339508,-26.037027"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 135.03581,90.815835 c 0.51892,-0.504955 1.59494,0.05403 3.59257,-2.299251 1.1971,-1.031357 2.43452,-4.999038 2.14916,-8.704228 l 0,-21.697526 m 0,8.67901 8.67899,0 m 0,13.018516 0,-21.697526 c -0.19975,-4.215281 0.72418,-10.50563 1.38658,-13.283884 0.48157,-2.4934 1.3566,-4.865783 2.29925,-6.754031 1.76446,-2.841873 3.08788,-4.985154 4.88589,-6.466623"
+       id="path3016-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479418;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 166.81456,58.114831 -13.01852,0 0,8.679009 8.67902,0 0,0"
+       id="path3845"
+       inkscape:path-effect="#path-effect3847"
+       inkscape:original-d="m 166.81456,58.114831 -13.01852,0 0,8.679009 8.67902,0 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:1.44479418;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 153.79604,66.79384 0,13.018516 30.37654,0 13.01851,0"
+       id="path3849"
+       inkscape:path-effect="#path-effect3851"
+       inkscape:original-d="m 153.79604,66.79384 0,13.018516 30.37654,0 13.01851,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 171.15406,53.775326 0,21.697519 34.71604,0"
+       id="path3857"
+       inkscape:path-effect="#path-effect3859"
+       inkscape:original-d="m 171.15406,53.775326 0,21.697519 34.71604,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44479394;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 175.49357,62.454334 0,21.697519 39.05554,0"
+       id="path3861"
+       inkscape:path-effect="#path-effect3863"
+       inkscape:original-d="m 175.49357,62.454334 0,21.697519 39.05554,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.62048994999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-6"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(2.3284729,0,0,2.3284729,-259.49109,-134.38561)"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.15810519000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-6-5"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(9.1381819,0,0,9.1381819,-1164.849,-598.80519)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.85309570999999984;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-6-57"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(1.6935896,0,0,1.6935896,-96.085635,-63.802383)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       style="fill:#940000;stroke:#000000;stroke-width:1.44479394000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="m 97.382492,66.79384 -2.095062,11.282711 4.339504,0 -2.244442,-11.282711"
+       id="path3928"
+       inkscape:path-effect="#path-effect3930"
+       inkscape:original-d="m 97.382492,66.79384 -2.095062,11.282711 4.339504,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,51.93952,6.4448818)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.99921262000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-9"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,28.915832,65.364403)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-2"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,52.711037,58.298938)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-3"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,67.897738,71.536546)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-6"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,89.825063,65.445623)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-36"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,96.728109,54.481959)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-0"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,104.44329,54.80681)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-7"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,87.388691,43.193449)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-367"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,65.46137,32.067363)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-92"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,95.75356,32.148575)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-63"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,122.55362,32.879486)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-75"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,118.08695,41.569202)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-37"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,126.12697,27.600687)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-365"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,130.43121,36.53404)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-68"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,161.53552,50.177707)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-4"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,152.84581,54.563171)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.99921262000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-65"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,170.30646,58.786212)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:0.99921262000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-39"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,113.45784,5.8357899)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-657"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,10.540577,22.89043)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-1"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,-10.412198,26.869833)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-00"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,60.975017,28.035338)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:2.12499976000000013;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-5-79"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.33995158,0,0,0.33995158,61.089869,58.930401)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:1.66469943999999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-3"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.86790086,0,0,0.86790086,101.40894,19.123053)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:1.66469943999999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-0"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.86790086,0,0,0.86790086,44.885172,-34.15222)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:1.66469943999999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-07"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.86790086,0,0,0.86790086,-42.174417,26.269736)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#940000;stroke:#000000;stroke-width:1.66469943999999992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path3032-9"
+       sodipodi:cx="132.5"
+       sodipodi:cy="74.665359"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 135,74.665359 c 0,1.380712 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380711 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.119289 2.5,2.5 z"
+       transform="matrix(0.86790086,0,0,0.86790086,67.299772,4.1799892)"
+       inkscape:export-filename="/home/zuzka/rails/webapp/public/images/path3032-6-9.png"
+       inkscape:export-xdpi="89.398888"
+       inkscape:export-ydpi="89.398888" />
+  </g>
+</svg>

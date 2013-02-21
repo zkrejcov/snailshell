@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf8" />
+    <link rel="stylesheet" type="text/css" href="css/app.css" />
+    <link rel="stylesheet" type="text/css" href="../css/app.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/app.css" />
+    <title>SnailShell</title>
+  </head>
+  <body>
+    <div id="main">
+      <div id="left_panel">
+        <%= erb :navigation %>
+      </div>
+      <div id="content_panel">
+        <a class="no_background logo" href="/"><img src="/images/logoSmallDarker.svg" /></a>
+        <%= yield %>
+      </div>
+      <div id="right_panel">
+        <div <%= 'class="flash"' if flash[:notice] || flash[:error] %>>
+        <% if flash[:notice] %>
+          <p class="notice"><%= flash[:notice] %></p>
+        <% end %>
+        <% if flash[:error] %>
+          <p class="error"><%= flash[:error] %></p>
+        <% end %>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

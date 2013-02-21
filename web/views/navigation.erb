@@ -1,0 +1,30 @@
+<ul>
+  <div class="navigation">
+  <% id = session[:user_id] %>
+  <% unless id %>
+  <li>
+    <a href="/signup" accesskey="s"  title="Sign up. You can use Alt+s for quick access.">Sign Up</a>
+  </li>
+  <li>
+    <a href="/login" accesskey="l" title="Log in. You can use Alt+l for quick access.">Log In</a>
+  </li>
+  <% else %>
+
+  <li class="nav_login">
+    Logged in as:&nbsp;<%= User.get(id).username %>
+  </li>
+  <li>
+    <a href="/" accesskey="h" title="Your home page. You can use Alt+h for quick access.">Home&nbsp;(Help)</a>
+  </li>
+  <li>
+    <a href="/headquarters" accesskey="p" title="Your headquarters. You can use Alt+p for quick access.">Headquarters</a>
+  </li>
+  <li>
+    <a href="/settings" accesskey="s" title="Your settings page. You can use Alt+s for quick access.">Settings</a>
+  </li>
+  <li>
+    <a href="/logout" accesskey="l" title="Log out of SnailShell. You can use Alt+l for quick access.">Log&nbsp;Out</a>
+  </li>
+  <% end %>
+  </div>
+</ul>
