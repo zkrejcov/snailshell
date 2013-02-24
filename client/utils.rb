@@ -7,6 +7,7 @@ module SnailShell
     SECURITY_SETTINGS = "settings/security_settings"
     EMAIL_SETTINGS = "settings/email_settings"
     SUBJECT = "Subject: [remote control]"
+    TIMESTAMP = "VALID UNTIL:"
     DAEMON_LOG = "log/daemon.log"
     ERROR_LOG = "log/error.log"
     MAIL_LOG = "log/mail.log"

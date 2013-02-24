@@ -54,17 +54,19 @@ module SnailShell
     end
 
     def self.process_mail
-      body = get_body
-      @subject = Utils::SUBJECT+" command ##{@mail.unique_id}"
-      send_answer("Starting execution of command ##{@mail.unique_id}.")
-      pid, stdin, stdout, stderr = Open4::popen4 body
-      status = Process.wait2(pid)[1]
-      send_answer compose_report(stdout, stderr, status)
-      rescue => exception
-        log_exception exception, "exec exception"
-      ensure
-        @mail.delete
-        log "deleted"
+      body,time = get_body
+      unless time and time < Time.now begin
+        @subject = Utils::SUBJECT+" command ##{@mail.unique_id}"
+        send_answer("Starting execution of command ##{@mail.unique_id}.")
+        pid, stdin, stdout, stderr = Open4::popen4 body
+        status = Process.wait2(pid)[1]
+        send_answer compose_report(stdout, stderr, status)
+        rescue => exception
+          log_exception exception, "exec exception"
+        end
+      end
+      @mail.delete
+      log "deleted"
     end
 
     def self.send_answer(answer)
@@ -94,9 +96,13 @@ module SnailShell
     end
 
     def self.get_body
-      body = get_part(0).lines().to_a[0..-2].join.chomp("\n")
+      body = match get_part(0).lines().to_a[0..-2].join.chomp("\n")
+      if body[Utils::TIMESTAMP] begin
+        body = /\A.* (\d+)$(.*)/.match(body)
+        time = Time.at body[1].to_i
+      end
 
-      body
+      [body[2],time]
     end
 
     def self.get_hash
